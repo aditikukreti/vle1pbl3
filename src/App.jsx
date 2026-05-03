@@ -1,8 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { 
   Rocket, 
-  Terminal, 
-  GitHub, 
+  Terminal,  
   Box, 
   Server, 
   Ship, 
@@ -57,7 +56,7 @@ function App() {
           <div className="pipeline-container">
             <div className="pipeline-stage">
               <div className="stage-icon-wrapper active">
-                <Github size={28} />
+                <Activity size={28} />
               </div>
               <span className="stage-name">Code (GitHub)</span>
             </div>
