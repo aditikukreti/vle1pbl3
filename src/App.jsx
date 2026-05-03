@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { 
   Rocket, 
   Terminal, 
-  Github, 
+  GitHub, 
   Box, 
   Server, 
   Ship, 
